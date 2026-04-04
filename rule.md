@@ -113,11 +113,17 @@
 <br/><br/><br/>
 # 운영 관리 규정
 ## 운영진
-2026년 2월 19일에 진행된 규정 개편에 따라 이 문단의 규정 내용은 [이 문서](https://github.com/garlicfood1234/station-rule/blob/main/admin_rule.md)로 분리되었으며 해당 문서에서 규정 확인이 가능합니다.
-<br/><br/>
+> [!IMPORTANT]
+> 2026년 2월 19일에 진행된 규정 개편에 따라 이 문단의 규정 내용은 [이 문서](https://github.com/garlicfood1234/station-rule/blob/main/admin_rule.md)로 분리되었으며 해당 문서에서 규정 확인이 가능합니다.
+
+<br/>
+
 ## 운영진 권한
-2026년 2월 19일에 진행된 규정 개편에 따라 이 문단의 규정 내용은 [이 문서](https://github.com/garlicfood1234/station-rule/blob/main/admin_rule.md)로 분리되었으며 해당 문서에서 규정 확인이 가능합니다.
-<br/><br/>
+> [!IMPORTANT]
+> 2026년 2월 19일에 진행된 규정 개편에 따라 이 문단의 규정 내용은 [이 문서](https://github.com/garlicfood1234/station-rule/blob/main/admin_rule.md)로 분리되었으며 해당 문서에서 규정 확인이 가능합니다.
+
+<br/>
+
 ## 문의
 - 이용자는 서버 운영에 대해 문의할 사항이 있는 경우, 서버 운영진에게 문의를 할 수 있습니다. 단, 문의를 접수하는 방식은 "금지 행위"에 해당되지 아니하고 본 규정을 준수하는 방식이어야 합니다.
 - 문의는 간편 문의 게시판, 문의/신고 게시판 또는 운영진과의 DM에서 이루어져야 합니다.
